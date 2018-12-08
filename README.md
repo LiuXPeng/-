@@ -7,9 +7,9 @@
 ## 输出
 文件名_chinese.txt
 ## 文件说明
->en2ch.py:翻译程序<br>
->test.txt:测试文件<br>
->test_chinese.txt:测试输出文件
+>en2ch.py：翻译程序<br>
+>test.txt：测试文件<br>
+>test_chinese.txt：测试输出文件
 ## 注意事项
 >每行文本不能太长，api调用有限制<br>
 >每秒翻译一行，api调用频次限制<br>
