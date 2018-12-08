@@ -2,8 +2,8 @@
 ## 介绍
 调用百度翻译api，把英文文本，翻译成中文文本
 ## 调用方用
-python en2ch.py 文件名.txt<br>
-除了txt,所有按行读取文件都可以
+>python en2ch.py 文件名.txt<br>
+>除了txt,所有按行读取文件都可以
 ## 输出
 文件名_chinese.txt
 ## 注意事项
